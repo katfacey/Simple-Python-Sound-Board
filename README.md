@@ -11,8 +11,8 @@ A simple python-based soundboard for my desktop. Vibe-coded with Gemini, and wor
 Sharing because I can ☠️
 
 # Building Yourself
-1. 🌐Download the soundboard.py script,💾save to whatever folder you want to work in📁
-2. 👨‍💻
+1. 🌐Download the soundboard🐍 script,💾save to whatever folder you want to work in📁
+2. 👨‍💻⌨️
 ```<PowerShell>
 #Create virtual environment
 python -m venv venv
@@ -26,5 +26,5 @@ pyinstaller --noconsole --onefile --name "PySoundBoard" soundboard.py
 
 #The final file will be located in the "dist/" folder👈
 ```
-3. ????
-4.  Profit 💰💸
+3. ❓❓❓❓
+4.  📈Profit💰💸
