@@ -1,6 +1,6 @@
 # Simple-Python-Sound-Board
 
-image here
+![Intro IMG](Screenshot 2025-12-23 083411.png)
 
 A simple python-based soundboard for my desktop. Vibe-coded with Gemini, and works as intended.
 👉Download the zip with the exe in the releases if you just want to use it🔊
