@@ -1,2 +1,26 @@
 # Simple-Python-Sound-Board
-A simple python-based soundboard for my desktop. Vibe-coded, and works as intended.
+
+image here
+
+A simple python-based soundboard for my desktop. Vibe-coded with Gemini, and works as intended.
+👉Download the zip with the exe in the releases if you just want to use it🔊
+🎼Supports MP3, OGG, and WAV🎶
+
+Sharing because I can ☠️
+
+# Building Yourself
+1. 🌐Download the soundboard.py script,💾save to whatever folder you want to work in📁
+2. 👨‍💻
+```<PowerShell>
+#Create virtual environment
+python -m venv venv
+venv\Scripts\activate
+
+#Install dependencies
+pip install customtkinter pygame pyinstaller
+```
+3.🖥️👀
+```
+pyinstaller --noconsole --onefile --name "PySoundBoard" soundboard.py
+```
+4. The final file will be located in the "dist/" folder 👈
