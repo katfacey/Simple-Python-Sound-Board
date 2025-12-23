@@ -8,6 +8,8 @@ A simple python-based soundboard for my desktop. Vibe-coded with Gemini, and wor
 
 🎼Supports MP3, OGG, and WAV🎶
 
+Be advised it will make a JSON file that saves the settings.
+
 Sharing because I can ☠️
 
 # Building Yourself
