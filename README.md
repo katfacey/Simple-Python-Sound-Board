@@ -1,5 +1,5 @@
 # Simple-Python-Sound-Board
-<img src="https://github.com/katfacey/Simple-Python-Sound-Board/blob/1b6dab816d140c8d925e85c092635171f1d0d164/Screenshot%202025-12-23%20083411.png" width="200px" alt="Project IMG"/>
+<img src="https://github.com/katfacey/Simple-Python-Sound-Board/blob/1b6dab816d140c8d925e85c092635171f1d0d164/Screenshot%202025-12-23%20083411.png" width="400px" alt="Project IMG"/>
 A simple python-based soundboard for my desktop. Vibe-coded with Gemini, and works as intended.
 👉Download the zip with the exe in the releases if you just want to use it🔊
 🎼Supports MP3, OGG, and WAV🎶
